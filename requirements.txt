@@ -1,0 +1,3 @@
+PySimpleGUI
+prettytable
+pandas
